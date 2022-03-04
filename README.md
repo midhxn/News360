@@ -1,6 +1,6 @@
 # News360
 
-The News Application developed using java and newsapi## MediPlus
+The News Application developed using java and newsapi
 
 ### Method 1 (Recommended)
         Download the APK from releases
