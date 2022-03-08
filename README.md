@@ -2,7 +2,7 @@
 
 The News Application developed using java and newsapi
 
-### Method 1 (Recommended)
+### Method 1 (Most Recommended)
         Download the APK from releases
         Install on a Android Device (Version 5.0 or above)
         
@@ -11,8 +11,8 @@ The News Application developed using java and newsapi
         Clone the Repo git clone 
         
 ### Other operations      
-        Set NewsApi
-        Update dependancies
+        Set NewsApi from the site
+        Update dependancies for stability
         
         
 ### Language used
