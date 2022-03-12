@@ -3,7 +3,7 @@
 The News Application developed using java and newsapi
 
 ### Method 1 (Most Recommended)
-        Download the APK from releases
+        Download the APK from release
         Install on a Android Device (Version 5.0 or above)
         
 ### Method 2
