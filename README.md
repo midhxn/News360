@@ -13,11 +13,12 @@ The News Application developed using java and newsapi
 ### Other operations      
         Set NewsApi from the site
         Update dependancies for stability
-        
+        Build the app
         
 ### Language used
     Java
     XML,Json
     
-    IDE: Android Studio
+    IDE: Android Studio 
+    Editor: vscode
    
