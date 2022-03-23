@@ -1,6 +1,6 @@
 # News360
 
-The News Application developed using java and newsapi
+The News Application developed using java and newsapi.
 
 ### Method 1 (Most Recommended)
         Download the APK from release
@@ -18,6 +18,7 @@ The News Application developed using java and newsapi
 ### Language used
     Java
     XML,Json
+    Material UI
     
     IDE: Android Studio 
     Editor: vscode
